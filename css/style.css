@@ -34,7 +34,6 @@ body {
 .Container {
     width: 80%;
     margin: 40px auto;
-    padding-left: 15px;
     background-color: rgb(255, 255, 255);;
     border-radius: 15px;
 }
@@ -43,9 +42,11 @@ body {
 /* Todo List part */
 
 #Contenitore_Pulsanti {
+    margin: auto;
     padding-left: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-bottom: rgb(214, 214, 214) solid;
 }
 
 .Button {
@@ -67,7 +68,7 @@ body {
 /* Tasks property */
 
 .Task {
-    padding-left: 30px;
+    padding-left: 50px;
     padding-top: 40px;
     padding-bottom: 10px;
 }
