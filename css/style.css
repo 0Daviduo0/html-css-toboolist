@@ -43,6 +43,7 @@ body {
     padding-left: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
+
 }
 
 .Button {
@@ -58,4 +59,10 @@ body {
 .Sect {
     background-color: rgb(228, 228, 228);
     border: none;
+}
+
+#Todo_List {
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-bottom: 10px;
 }
