@@ -1,18 +1,38 @@
 /* All */
+
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
-Body {
+body {
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(246, 248, 249);
+    background-color: rgb(214, 214, 214);
 }
 
 /* Corpo */
-
-#Container {
-    width: 80%;
-    margin: 15px auto;
+#Cont_Logo_Nome{
     background-color: #fff;
+}
+
+
+#Logo {
+    padding-left: 20px;
+    height: 60px;
+    width: auto;
+    vertical-align: -80%;
+}
+
+#Nome {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Container {
+    width: 80%;
+    margin: 40px auto;
+    padding-left: 15px;
+    background-color: rgb(255, 255, 255);;
+    border-radius: 15px;
 }
