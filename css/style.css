@@ -36,3 +36,26 @@ body {
     background-color: rgb(255, 255, 255);;
     border-radius: 15px;
 }
+
+/* Todo List part */
+
+#Contenitore_Pulsanti {
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.Button {
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.Add {
+    background-color: rgb(61, 188, 238);
+    border: none;
+}
+
+.Sect {
+    background-color: rgb(228, 228, 228);
+    border: none;
+}
