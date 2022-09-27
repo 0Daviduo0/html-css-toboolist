@@ -11,7 +11,9 @@ body {
     background-color: rgb(214, 214, 214);
 }
 
+
 /* Corpo */
+
 #Cont_Logo_Nome{
     background-color: #fff;
 }
@@ -37,6 +39,7 @@ body {
     border-radius: 15px;
 }
 
+
 /* Todo List part */
 
 #Contenitore_Pulsanti {
@@ -61,6 +64,9 @@ body {
     border: none;
 }
 
+
+/* Tasks property */
+
 .Task {
     padding-left: 30px;
     padding-top: 40px;
@@ -70,4 +76,22 @@ body {
 .Dropdown {
     font-size: 30px;
     font-weight: bold;
+}
+
+/* List items */
+.Divider{
+    padding-top: 8px;
+}
+
+.Check {
+    color: green;
+}
+
+#TaskTextSucc {
+    font-size: 20px;
+}
+
+.Tag {
+    padding: 5px;
+    border-radius: 25px;
 }
