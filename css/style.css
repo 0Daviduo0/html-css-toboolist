@@ -108,6 +108,7 @@ body {
 .Tag {
     padding: 5px;
     border-radius: 25px;
+    font-size: 10px;
 }
 
 .Editorial {
