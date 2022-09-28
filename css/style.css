@@ -1,5 +1,4 @@
 /* All */
-
 * {
     margin: 0;
     padding: 0;
@@ -12,8 +11,7 @@ body {
 }
 
 
-/* Corpo */
-
+/* Title */
 #Cont_Logo_Nome{
     background-color: #fff;
 }
@@ -45,7 +43,7 @@ body {
 
 
 /* Todo List part */
-
+/* Add Tasks */
 #Contenitore_Pulsanti {
     margin: auto;
     padding-left: 50px;
@@ -73,7 +71,6 @@ body {
 
 
 /* Tasks property */
-
 .Task {
     padding-left: 50px;
     padding-top: 40px;
@@ -85,7 +82,7 @@ body {
     font-weight: bold;
 }
 
-/* List items */
+/* Checks and things */
 .Divider {
     padding-top: 8px;
 }
@@ -102,11 +99,13 @@ body {
     color: red;
 }
 
+/* List items */
 .TaskTextSucc {
     font-size: 20px;
     padding-left: 10px;
 }
 
+/* Tags - all */
 .Tag {
     padding: 5px;
     border-radius: 25px;
@@ -114,6 +113,7 @@ body {
     color: #fff;
 }
 
+/* Tags type */
 .Editorial {
     background-color: rgb(61, 188, 238);
     border: none;
