@@ -96,8 +96,9 @@ body {
     color: red;
 }
 
-#TaskTextSucc {
+.TaskTextSucc {
     font-size: 20px;
+    padding-left: 10px;
 }
 
 .Tag {
